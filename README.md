@@ -12,7 +12,7 @@
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgre.png" /></a>
 <a href="https://qdrant.tech/" title="Qdrant"><img src="icons/qdrant.png" /></a>
-<a href="https://huggingface.co/docs/transformers/index" title="Transformers"><img src="icons/transformers.png" /></a>
+<a href="https://huggingface.co/" title="Hugging Face"><img src="icons/transformers.png" /></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="icons/pycharm.png" /></a>
 
 ## 💼 Impact-Driven Projects

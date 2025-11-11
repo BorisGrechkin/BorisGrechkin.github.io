@@ -5,14 +5,15 @@
 ## 🛠️ Technical Arsenal
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgres.png" /></a>
 <a href="https://qdrant.tech/" title="Qdrant"><img src="icons/qdrant.png" /></a>
 <a href="https://huggingface.co/" title="Hugging Face"><img src="icons/hugging-face.png" /></a>
+<a href="https://pytorch.org/" title="PyTorch"><img src="icons/pytorch.png" /></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="icons/pycharm.png" /></a>
 
 ## 💼 Impact-Driven Projects

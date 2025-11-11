@@ -14,7 +14,7 @@
 <a href="https://qdrant.tech/" title="Qdrant"><img src="icons/qdrant.png" /></a>
 <a href="https://huggingface.co/" title="Hugging Face"><img src="icons/hugging-face.png" /></a>
 <a href="https://pytorch.org/" title="PyTorch"><img src="icons/pytorch.png" /></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.tensorflow.org"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="icons/pycharm.png" /></a>
 
 ## 💼 Impact-Driven Projects

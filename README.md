@@ -4,8 +4,6 @@
 
 ## 🛠️ Technical Arsenal
 
-**Currently working with:**
-
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
